@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pagewise-banner.png" width="100%" alt="PageWise Banner">
+</p>
 # Educational Document Assistant (RAG Chatbot)
 
 A standalone AI assistant that answers questions from your own PDF, TXT and Markdown files.
