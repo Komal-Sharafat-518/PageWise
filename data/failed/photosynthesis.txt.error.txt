@@ -1,0 +1,2 @@
+Could not create embeddings. Is Ollama running and is 'nomic-embed-text' pulled? (Client error '404 Not Found' for url 'http://localhost:11434/api/embed'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404)

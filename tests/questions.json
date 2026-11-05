@@ -1,0 +1,12 @@
+[
+  {"q": "What is the formula for Newton's second law?", "source": "newtons_laws.txt", "keywords": ["F = m"]},
+  {"q": "Why do passengers lurch forward when a bus brakes?", "source": "newtons_laws.txt", "keywords": ["inertia"]},
+  {"q": "What acceleration does a 10 N force give a 2 kg object?", "source": "newtons_laws.txt", "keywords": ["5"]},
+  {"q": "Where in the plant cell does photosynthesis happen?", "source": "photosynthesis.txt", "keywords": ["chloroplast"]},
+  {"q": "Which pigment absorbs sunlight in leaves?", "source": "photosynthesis.txt", "keywords": ["chlorophyll"]},
+  {"q": "What is the Calvin cycle and where does it take place?", "source": "photosynthesis.txt", "keywords": ["stroma"]},
+  {"q": "How do you create a dictionary in Python?", "source": "python_basics.md", "keywords": ["curly", "{"]},
+  {"q": "Which keyword is used to define a function?", "source": "python_basics.md", "keywords": ["def"]},
+  {"q": "What is the capital of Australia?", "source": null, "keywords": []},
+  {"q": "Who won the 2018 football world cup?", "source": null, "keywords": []}
+]

@@ -1,0 +1,47 @@
+{
+  "name": "Document Processing Workflow",
+  "nodes": [
+    {
+      "parameters": {"rule": {"interval": [{"field": "minutes", "minutesInterval": 5}]}},
+      "id": "a1", "name": "Every 5 minutes",
+      "type": "n8n-nodes-base.scheduleTrigger", "typeVersion": 1.2, "position": [200, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/ingest/scan",
+        "options": {"timeout": 300000}
+      },
+      "id": "a2", "name": "Process inbox folder",
+      "type": "n8n-nodes-base.httpRequest", "typeVersion": 4.2, "position": [440, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [{"value1": "={{ $json.failed_count }}", "operation": "larger", "value2": 0}]
+        }
+      },
+      "id": "a3", "name": "Any failed files?",
+      "type": "n8n-nodes-base.if", "typeVersion": 1, "position": [680, 300]
+    },
+    {
+      "parameters": {},
+      "id": "a4", "name": "Notify (replace with Email or Telegram node)",
+      "type": "n8n-nodes-base.noOp", "typeVersion": 1, "position": [920, 220]
+    },
+    {
+      "parameters": {},
+      "id": "a5", "name": "All good - nothing to do",
+      "type": "n8n-nodes-base.noOp", "typeVersion": 1, "position": [920, 380]
+    }
+  ],
+  "connections": {
+    "Every 5 minutes": {"main": [[{"node": "Process inbox folder", "type": "main", "index": 0}]]},
+    "Process inbox folder": {"main": [[{"node": "Any failed files?", "type": "main", "index": 0}]]},
+    "Any failed files?": {"main": [
+      [{"node": "Notify (replace with Email or Telegram node)", "type": "main", "index": 0}],
+      [{"node": "All good - nothing to do", "type": "main", "index": 0}]
+    ]}
+  },
+  "settings": {"executionOrder": "v1"}
+}

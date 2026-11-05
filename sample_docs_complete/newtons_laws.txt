@@ -1,0 +1,25 @@
+Newton's Laws of Motion
+
+Introduction
+
+Sir Isaac Newton described three laws that explain how objects move. Together they form the foundation of classical mechanics, the branch of physics that deals with the motion of everyday objects. Newton published these laws in 1687 in his book Principia Mathematica.
+
+First Law: The Law of Inertia
+
+An object at rest stays at rest, and an object in motion keeps moving in a straight line at constant speed, unless an unbalanced force acts on it. Inertia is the tendency of an object to resist any change in its motion. The more mass an object has, the more inertia it has. For example, passengers lurch forward when a bus brakes suddenly because their bodies tend to keep moving at the speed the bus had before. Seat belts exist to provide the unbalanced force that stops the passengers safely.
+
+Second Law: Force and Acceleration
+
+The acceleration of an object depends on the net force acting on it and on its mass. The formula is F = m x a, where F is the force in newtons, m is the mass in kilograms and a is the acceleration in metres per second squared. If the same force pushes a light cart and a heavy cart, the light cart accelerates more. Worked example: a force of 10 N acting on a 2 kg object gives an acceleration of 5 m/s squared, because a = F / m = 10 / 2 = 5. One newton is defined as the force needed to give a mass of 1 kg an acceleration of 1 m/s squared.
+
+Third Law: Action and Reaction
+
+For every action there is an equal and opposite reaction. When you push against a wall, the wall pushes back on you with the same force. A rocket moves upward because it pushes hot gas downward, and the gas pushes the rocket up. The two forces act on different objects, so they do not cancel each other out. This is also why a swimmer moves forward by pushing the water backward.
+
+Friction
+
+Friction is a force that opposes motion between two surfaces in contact. It is the reason a rolling ball eventually stops. Without friction, the first law tells us the ball would keep rolling forever. Friction can be useful, for example when tyres grip the road, and it can be a problem, for example when it wears out the moving parts of a machine. Lubricants such as oil reduce friction.
+
+Weight and Mass
+
+Mass is the amount of matter in an object and is measured in kilograms. Weight is the force of gravity acting on that mass, so it is measured in newtons. Weight is calculated with W = m x g, where g is about 9.8 m/s squared on Earth. A person with a mass of 60 kg has a weight of about 588 N on Earth. On the Moon the same person has the same mass but a smaller weight, because the Moon's gravity is weaker.

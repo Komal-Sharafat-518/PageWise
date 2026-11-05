@@ -1,0 +1,11 @@
+Photosynthesis in Plants
+
+Photosynthesis is the process by which green plants, algae and some bacteria turn light energy into chemical energy stored in sugar. It happens mainly in the leaves, inside small structures called chloroplasts. Chloroplasts contain chlorophyll, the green pigment that absorbs sunlight, mostly red and blue light.
+
+The overall equation is: carbon dioxide + water + light energy gives glucose + oxygen. In symbols, 6CO2 + 6H2O + light gives C6H12O6 + 6O2.
+
+There are two main stages. The light-dependent reactions take place in the thylakoid membranes. Here light energy splits water molecules, releasing oxygen and producing the energy carriers ATP and NADPH. The Calvin cycle takes place in the stroma, the fluid around the thylakoids. It uses ATP and NADPH to turn carbon dioxide into glucose. The Calvin cycle does not need light directly, but it depends on the products of the light reactions.
+
+Plants take in carbon dioxide through tiny pores in the leaves called stomata. Water is absorbed by the roots and travels up through the xylem. The oxygen produced is released into the air through the stomata.
+
+Factors that affect the rate of photosynthesis include light intensity, carbon dioxide concentration and temperature. If any one of these is in short supply, it limits the rate. This is called a limiting factor. Very high temperatures can damage the enzymes involved and slow the process down.

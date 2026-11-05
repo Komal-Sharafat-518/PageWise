@@ -1,0 +1,11 @@
+Newton's Laws of Motion
+
+Sir Isaac Newton described three laws that explain how objects move. They form the base of classical mechanics.
+
+First Law (Law of Inertia). An object at rest stays at rest, and an object in motion keeps moving in a straight line at constant speed, unless an unbalanced force acts on it. Inertia is the tendency of an object to resist changes in its motion. A heavier object has more inertia. For example, passengers lurch forward when a bus brakes suddenly because their bodies tend to keep moving.
+
+Second Law (Force and Acceleration). The acceleration of an object depends on the net force acting on it and on its mass. The formula is F = m x a, where F is force in newtons, m is mass in kilograms and a is acceleration in metres per second squared. If the same force pushes a light cart and a heavy cart, the light cart accelerates more. A force of 10 N on a 2 kg object gives an acceleration of 5 m/s squared.
+
+Third Law (Action and Reaction). For every action there is an equal and opposite reaction. When you push against a wall, the wall pushes back on you with the same force. A rocket moves upward because it pushes hot gas downward, and the gas pushes the rocket up. The two forces act on different objects, so they do not cancel each other.
+
+Friction is a force that opposes motion between two surfaces in contact. It is the reason a rolling ball eventually stops. Without friction, the first law says the ball would roll forever.
